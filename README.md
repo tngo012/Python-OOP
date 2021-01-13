@@ -5,3 +5,6 @@
 ## Customizing functions
 ## Operator overloading - comparison
 ## Exception handling
+## Designing for inheritance and polymorphism
+## Managing data access
+## Properties
